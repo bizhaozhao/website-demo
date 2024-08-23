@@ -56,7 +56,7 @@ function Learning() {
           </h3>
         </VerticalTimelineElement>
         <VerticalTimelineElement 
-          date="Oct, 2023"
+          date="Jan - Mar, 2024"
           iconStyle={{ background: "#3e497a", color: "#fff"}}
         >
           <h3 className="vertical-timeline-element-title">
@@ -65,6 +65,14 @@ function Learning() {
           <img>
           
           </img>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement 
+          date="Aug - Currently, 2024"
+          iconStyle={{ background: "#3e497a", color: "#fff"}}
+        >
+          <h3 className="vertical-timeline-element-title">
+          Learning DevOps with Samual
+          </h3>
         </VerticalTimelineElement>
       </VerticalTimeline>
     </div>
